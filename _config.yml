@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Guy Brizan / Site Title"
+title                    : "David Guy Brizan"
 title_separator          : "-"
 name                     : &name "David Guy Brizan"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "David Guy Brizan"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor | USF"
-  location         : "Harney 404 | San Francisco, CA"
+  bio              : "Associate Professor"
+  location         : "Harney 404"
   employer         : "University of San Francisco"
   uri              : # URL
   email            : "dgbrizan@usfca.edu" 
