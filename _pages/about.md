@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am an Associate Professor in the [Department of Computer Science](https://www.cs.usfca.edu/) at the [University of San Francisco](https://www.usfca.edu/) and I am co-director of the [MAGICS Research Lab](https://magics.github.io/).
 
 Teaching
