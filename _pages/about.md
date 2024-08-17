@@ -13,11 +13,16 @@ Teaching
 I am on sabbatical in the 2024-2025 academic year. Normally, I teach courses in:
 * Machine Learning (CS 463 / CS 663)
 * Algorithms and Data Structures (CS 245)
-I plan on teaching Natural Language Processing. [More...](/research/)
+
+I plan on teaching Natural Language Processing in Fall 2025.
+
+[More...](/research/)
 
 Research
 ======
-My research interests are in Natural Language Processing (NLP), specifically what language can tell us about a person or her culture. Because NLP often uses data and machine learning, I publish a little in that area as well. [More...](/publications/)
+My research interests are in Natural Language Processing (NLP), specifically what language can tell us about a person or her culture. Because NLP often uses data and machine learning, I publish a little in that area as well.
+
+[More...](/publications/)
 
 Future (Graduate) Students
 ======
